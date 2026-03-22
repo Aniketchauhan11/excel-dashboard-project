@@ -1,4 +1,4 @@
-# excel-dashboard-project
+# Excel-Dashboard-Project
 End-to-End Excel Dashboard Project
 # 📊 Excel End-to-End Dashboard Project  
 
